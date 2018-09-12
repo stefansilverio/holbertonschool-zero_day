@@ -5,8 +5,8 @@
 
 This project in holberton school zero day is about:
 * Using vagrant and virtual machines
-* Emacs
-* vim
+* Learning the Emacs editor
+* Using the vim editor
 
 ## Author
 `stefan silverio`
